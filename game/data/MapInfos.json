@@ -1,8 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Level 2","order":4,"parentId":5,"scrollX":819,"scrollY":466},
-null,
-{"id":3,"expanded":true,"name":"Intro - Fall Screen","order":1,"parentId":0,"scrollX":653,"scrollY":463.5},
-{"id":4,"expanded":true,"name":"Level 1","order":2,"parentId":3,"scrollX":451,"scrollY":304.5},
-{"id":5,"expanded":true,"name":"Level 2 - Fall Screen","order":3,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"Level 2","order":4,"parentId":5,"scrollX":822.5,"scrollY":464.5},
+{"id":2,"expanded":true,"name":"Screen Template","order":5,"parentId":0,"scrollX":830.5,"scrollY":447.5},
+{"id":3,"expanded":true,"name":"Intro - Fall Screen","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"Level 1","order":2,"parentId":3,"scrollX":830.5,"scrollY":447.5},
+{"id":5,"expanded":true,"name":"Level 2 - Fall Screen","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"Credits","order":6,"parentId":0,"scrollX":830.5,"scrollY":447.5}
 ]
